@@ -1,5 +1,8 @@
 # ImageClassification-NeuralNetwork
 Model involves training and testing on CIFAR-10 dataset
+
 No. of Epoch = 100
+
 Accuracy obtained : 87.77%
+
 Integrated with Flask Api.
